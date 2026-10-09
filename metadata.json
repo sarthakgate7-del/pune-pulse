@@ -1,0 +1,6 @@
+{
+  "name": "PunePulse - Smart Pune City Explorer & Safe Navigator",
+  "description": "Discover Pune's hidden food gems, historic Peshwa heritage, navigate safe well-lit routes, compare neighborhoods, and report urban traffic & safety updates in real time.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
